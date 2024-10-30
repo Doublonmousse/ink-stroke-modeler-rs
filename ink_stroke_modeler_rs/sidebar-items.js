@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ModelerInputEventType"],"mod":["error"],"struct":["ModelerInput","ModelerParams","ModelerResult","StrokeModeler"]};
